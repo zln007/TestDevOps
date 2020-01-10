@@ -1,0 +1,2 @@
+echo "zzz"
+mkfile "abc"
