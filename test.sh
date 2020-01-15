@@ -1,4 +1,2 @@
 echo "zzz"
-mkfile "abc"
-rrr
-ddd
+cp test.sh test2.sh
